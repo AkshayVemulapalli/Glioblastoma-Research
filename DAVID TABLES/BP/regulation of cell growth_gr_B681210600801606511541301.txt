@@ -1,0 +1,13 @@
+ID	Gene Name	Species
+ENSG00000166033	HtrA serine peptidase 1(HTRA1)	Homo sapiens	
+ENSG00000152377	SPARC/osteonectin, cwcv and kazal like domains proteoglycan 1(SPOCK1)	Homo sapiens	
+ENSG00000135744	angiotensinogen(AGT)	Homo sapiens	
+ENSG00000171603	calsyntenin 1(CLSTN1)	Homo sapiens	
+ENSG00000118523	connective tissue growth factor(CTGF)	Homo sapiens	
+ENSG00000142871	cysteine rich angiogenic inducer 61(CYR61)	Homo sapiens	
+ENSG00000168309	family with sequence similarity 107 member A(FAM107A)	Homo sapiens	
+ENSG00000115457	insulin like growth factor binding protein 2(IGFBP2)	Homo sapiens	
+ENSG00000146674	insulin like growth factor binding protein 3(IGFBP3)	Homo sapiens	
+ENSG00000141753	insulin like growth factor binding protein 4(IGFBP4)	Homo sapiens	
+ENSG00000115461	insulin like growth factor binding protein 5(IGFBP5)	Homo sapiens	
+ENSG00000163453	insulin like growth factor binding protein 7(IGFBP7)	Homo sapiens	

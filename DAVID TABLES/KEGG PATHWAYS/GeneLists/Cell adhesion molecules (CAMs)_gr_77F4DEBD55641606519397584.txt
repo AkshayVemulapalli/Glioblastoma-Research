@@ -1,0 +1,26 @@
+ID	Gene Name	Species
+ENSG00000002586	CD99 molecule(CD99)	Homo sapiens	
+ENSG00000198910	L1 cell adhesion molecule(L1CAM)	Homo sapiens	
+ENSG00000018236	contactin 1(CNTN1)	Homo sapiens	
+ENSG00000184144	contactin 2(CNTN2)	Homo sapiens	
+ENSG00000105855	integrin subunit beta 8(ITGB8)	Homo sapiens	
+ENSG00000206503	major histocompatibility complex, class I, A(HLA-A)	Homo sapiens	
+ENSG00000234745	major histocompatibility complex, class I, B(HLA-B)	Homo sapiens	
+ENSG00000204525	major histocompatibility complex, class I, C(HLA-C)	Homo sapiens	
+ENSG00000204592	major histocompatibility complex, class I, E(HLA-E)	Homo sapiens	
+ENSG00000231389	major histocompatibility complex, class II, DP alpha 1(HLA-DPA1)	Homo sapiens	
+ENSG00000223865	major histocompatibility complex, class II, DP beta 1(HLA-DPB1)	Homo sapiens	
+ENSG00000196735	major histocompatibility complex, class II, DQ alpha 1(HLA-DQA1)	Homo sapiens	
+ENSG00000204287	major histocompatibility complex, class II, DR alpha(HLA-DRA)	Homo sapiens	
+ENSG00000196126	major histocompatibility complex, class II, DR beta 1(HLA-DRB1)	Homo sapiens	
+ENSG00000198502	major histocompatibility complex, class II, DR beta 5(HLA-DRB5)	Homo sapiens	
+ENSG00000105695	myelin associated glycoprotein(MAG)	Homo sapiens	
+ENSG00000197965	myelin protein zero like 1(MPZL1)	Homo sapiens	
+ENSG00000149294	neural cell adhesion molecule 1(NCAM1)	Homo sapiens	
+ENSG00000110076	neurexin 2(NRXN2)	Homo sapiens	
+ENSG00000163531	neurofascin(NFASC)	Homo sapiens	
+ENSG00000091129	neuronal cell adhesion molecule(NRCAM)	Homo sapiens	
+ENSG00000188404	selectin L(SELL)	Homo sapiens	
+ENSG00000162512	syndecan 3(SDC3)	Homo sapiens	
+ENSG00000124145	syndecan 4(SDC4)	Homo sapiens	
+ENSG00000038427	versican(VCAN)	Homo sapiens	

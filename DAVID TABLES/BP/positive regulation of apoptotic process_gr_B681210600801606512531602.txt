@@ -1,0 +1,31 @@
+ID	Gene Name	Species
+ENSG00000105270	CAP-Gly domain containing linker protein 3(CLIP3)	Homo sapiens	
+ENSG00000101265	Ras association domain family member 2(RASSF2)	Homo sapiens	
+ENSG00000160307	S100 calcium binding protein B(S100B)	Homo sapiens	
+ENSG00000124766	SRY-box 4(SOX4)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000135446	cyclin dependent kinase 4(CDK4)	Homo sapiens	
+ENSG00000138061	cytochrome P450 family 1 subfamily B member 1(CYP1B1)	Homo sapiens	
+ENSG00000120129	dual specificity phosphatase 1(DUSP1)	Homo sapiens	
+ENSG00000101210	eukaryotic translation elongation factor 1 alpha 2(EEF1A2)	Homo sapiens	
+ENSG00000176884	glutamate ionotropic receptor NMDA type subunit 1(GRIN1)	Homo sapiens	
+ENSG00000099860	growth arrest and DNA damage inducible beta(GADD45B)	Homo sapiens	
+ENSG00000100292	heme oxygenase 1(HMOX1)	Homo sapiens	
+ENSG00000130787	huntingtin interacting protein 1 related(HIP1R)	Homo sapiens	
+ENSG00000117318	inhibitor of DNA binding 3, HLH protein(ID3)	Homo sapiens	
+ENSG00000146674	insulin like growth factor binding protein 3(IGFBP3)	Homo sapiens	
+ENSG00000134333	lactate dehydrogenase A(LDHA)	Homo sapiens	
+ENSG00000137409	mitochondrial carrier 1(MTCH1)	Homo sapiens	
+ENSG00000105894	pleiotrophin(PTN)	Homo sapiens	
+ENSG00000143878	ras homolog family member B(RHOB)	Homo sapiens	
+ENSG00000204628	receptor for activated C kinase 1(RACK1)	Homo sapiens	
+ENSG00000143947	ribosomal protein S27a(RPS27A)	Homo sapiens	
+ENSG00000137154	ribosomal protein S6(RPS6)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000106483	secreted frizzled related protein 4(SFRP4)	Homo sapiens	
+ENSG00000108387	septin 4(SEPT4)	Homo sapiens	
+ENSG00000265972	thioredoxin interacting protein(TXNIP)	Homo sapiens	
+ENSG00000038382	trio Rho guanine nucleotide exchange factor(TRIO)	Homo sapiens	
+ENSG00000221983	ubiquitin A-52 residue ribosomal protein fusion product 1(UBA52)	Homo sapiens	
+ENSG00000170315	ubiquitin B(UBB)	Homo sapiens	
+ENSG00000150991	ubiquitin C(UBC)	Homo sapiens	

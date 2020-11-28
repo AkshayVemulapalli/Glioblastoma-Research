@@ -1,0 +1,43 @@
+ID	Gene Name	Species
+ENSG00000115266	APC2, WNT signaling pathway regulator(APC2)	Homo sapiens	
+ENSG00000186716	BCR, RhoGEF and GTPase activating protein(BCR)	Homo sapiens	
+ENSG00000099942	CRK like proto-oncogene, adaptor protein(CRKL)	Homo sapiens	
+ENSG00000170345	Fos proto-oncogene, AP-1 transcription factor subunit(FOS)	Homo sapiens	
+ENSG00000114353	G protein subunit alpha i2(GNAI2)	Homo sapiens	
+ENSG00000078369	G protein subunit beta 1(GNB1)	Homo sapiens	
+ENSG00000087460	GNAS complex locus(GNAS)	Homo sapiens	
+ENSG00000177606	Jun proto-oncogene, AP-1 transcription factor subunit(JUN)	Homo sapiens	
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000105976	MET proto-oncogene, receptor tyrosine kinase(MET)	Homo sapiens	
+ENSG00000100906	NFKB inhibitor alpha(NFKBIA)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000187498	collagen type IV alpha 1 chain(COL4A1)	Homo sapiens	
+ENSG00000134871	collagen type IV alpha 2 chain(COL4A2)	Homo sapiens	
+ENSG00000182578	colony stimulating factor 1 receptor(CSF1R)	Homo sapiens	
+ENSG00000110092	cyclin D1(CCND1)	Homo sapiens	
+ENSG00000135446	cyclin dependent kinase 4(CDK4)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000161202	dishevelled segment polarity protein 3(DVL3)	Homo sapiens	
+ENSG00000116016	endothelial PAS domain protein 1(EPAS1)	Homo sapiens	
+ENSG00000136160	endothelin receptor type B(EDNRB)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000113578	fibroblast growth factor 1(FGF1)	Homo sapiens	
+ENSG00000068078	fibroblast growth factor receptor 3(FGFR3)	Homo sapiens	
+ENSG00000115414	fibronectin 1(FN1)	Homo sapiens	
+ENSG00000084207	glutathione S-transferase pi 1(GSTP1)	Homo sapiens	
+ENSG00000177885	growth factor receptor bound protein 2(GRB2)	Homo sapiens	
+ENSG00000080824	heat shock protein 90 alpha family class A member 1(HSP90AA1)	Homo sapiens	
+ENSG00000096384	heat shock protein 90 alpha family class B member 1(HSP90AB1)	Homo sapiens	
+ENSG00000100644	hypoxia inducible factor 1 alpha subunit(HIF1A)	Homo sapiens	
+ENSG00000005884	integrin subunit alpha 3(ITGA3)	Homo sapiens	
+ENSG00000091136	laminin subunit beta 1(LAMB1)	Homo sapiens	
+ENSG00000135862	laminin subunit gamma 1(LAMC1)	Homo sapiens	
+ENSG00000087245	matrix metallopeptidase 2(MMP2)	Homo sapiens	
+ENSG00000145675	phosphoinositide-3-kinase regulatory subunit 1(PIK3R1)	Homo sapiens	
+ENSG00000134853	platelet derived growth factor receptor alpha(PDGFRA)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	
+ENSG00000067560	ras homolog family member A(RHOA)	Homo sapiens	
+ENSG00000115415	signal transducer and activator of transcription 1(STAT1)	Homo sapiens	
+ENSG00000128602	smoothened, frizzled class receptor(SMO)	Homo sapiens	
+ENSG00000103363	transcription elongation factor B subunit 2(TCEB2)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

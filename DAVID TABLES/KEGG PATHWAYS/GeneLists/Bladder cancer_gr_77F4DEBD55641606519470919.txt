@@ -1,0 +1,10 @@
+ID	Gene Name	Species
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000110092	cyclin D1(CCND1)	Homo sapiens	
+ENSG00000135446	cyclin dependent kinase 4(CDK4)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000068078	fibroblast growth factor receptor 3(FGFR3)	Homo sapiens	
+ENSG00000087245	matrix metallopeptidase 2(MMP2)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

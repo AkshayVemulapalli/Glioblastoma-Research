@@ -1,0 +1,71 @@
+ID	Gene Name	Species
+ENSG00000143153	ATPase Na+/K+ transporting subunit beta 1(ATP1B1)	Homo sapiens	
+ENSG00000129244	ATPase Na+/K+ transporting subunit beta 2(ATP1B2)	Homo sapiens	
+ENSG00000108691	C-C motif chemokine ligand 2(CCL2)	Homo sapiens	
+ENSG00000272398	CD24 molecule(CD24)	Homo sapiens	
+ENSG00000026508	CD44 molecule (Indian blood group)(CD44)	Homo sapiens	
+ENSG00000010278	CD9 molecule(CD9)	Homo sapiens	
+ENSG00000002586	CD99 molecule(CD99)	Homo sapiens	
+ENSG00000070413	DiGeorge syndrome critical region gene 2(DGCR2)	Homo sapiens	
+ENSG00000198910	L1 cell adhesion molecule(L1CAM)	Homo sapiens	
+ENSG00000152377	SPARC/osteonectin, cwcv and kazal like domains proteoglycan 1(SPOCK1)	Homo sapiens	
+ENSG00000154096	Thy-1 cell surface antigen(THY1)	Homo sapiens	
+ENSG00000181790	adhesion G protein-coupled receptor B1(ADGRB1)	Homo sapiens	
+ENSG00000205336	adhesion G protein-coupled receptor G1(ADGRG1)	Homo sapiens	
+ENSG00000105290	amyloid beta precursor like protein 1(APLP1)	Homo sapiens	
+ENSG00000142192	amyloid beta precursor protein(APP)	Homo sapiens	
+ENSG00000132692	brevican(BCAN)	Homo sapiens	
+ENSG00000171603	calsyntenin 1(CLSTN1)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000169862	catenin delta 2(CTNND2)	Homo sapiens	
+ENSG00000167123	cerebral endothelial cell adhesion molecule(CERCAM)	Homo sapiens	
+ENSG00000108821	collagen type I alpha 1 chain(COL1A1)	Homo sapiens	
+ENSG00000130635	collagen type V alpha 1 chain(COL5A1)	Homo sapiens	
+ENSG00000142156	collagen type VI alpha 1 chain(COL6A1)	Homo sapiens	
+ENSG00000142173	collagen type VI alpha 2 chain(COL6A2)	Homo sapiens	
+ENSG00000163359	collagen type VI alpha 3 chain(COL6A3)	Homo sapiens	
+ENSG00000182871	collagen type XVIII alpha 1 chain(COL18A1)	Homo sapiens	
+ENSG00000118523	connective tissue growth factor(CTGF)	Homo sapiens	
+ENSG00000018236	contactin 1(CNTN1)	Homo sapiens	
+ENSG00000184144	contactin 2(CNTN2)	Homo sapiens	
+ENSG00000142871	cysteine rich angiogenic inducer 61(CYR61)	Homo sapiens	
+ENSG00000138061	cytochrome P450 family 1 subfamily B member 1(CYP1B1)	Homo sapiens	
+ENSG00000151914	dystonin(DST)	Homo sapiens	
+ENSG00000138080	elastin microfibril interfacer 1(EMILIN1)	Homo sapiens	
+ENSG00000149557	fasciculation and elongation protein zeta 1(FEZ1)	Homo sapiens	
+ENSG00000115414	fibronectin 1(FN1)	Homo sapiens	
+ENSG00000108679	galectin 3 binding protein(LGALS3BP)	Homo sapiens	
+ENSG00000136235	glycoprotein nmb(GPNMB)	Homo sapiens	
+ENSG00000129009	immunoglobulin superfamily containing leucine rich repeat(ISLR)	Homo sapiens	
+ENSG00000163453	insulin like growth factor binding protein 7(IGFBP7)	Homo sapiens	
+ENSG00000005884	integrin subunit alpha 3(ITGA3)	Homo sapiens	
+ENSG00000135424	integrin subunit alpha 7(ITGA7)	Homo sapiens	
+ENSG00000105855	integrin subunit beta 8(ITGB8)	Homo sapiens	
+ENSG00000091136	laminin subunit beta 1(LAMB1)	Homo sapiens	
+ENSG00000135862	laminin subunit gamma 1(LAMC1)	Homo sapiens	
+ENSG00000170382	leucine rich repeat neuronal 2(LRRN2)	Homo sapiens	
+ENSG00000134013	lysyl oxidase like 2(LOXL2)	Homo sapiens	
+ENSG00000105695	myelin associated glycoprotein(MAG)	Homo sapiens	
+ENSG00000204655	myelin oligodendrocyte glycoprotein(MOG)	Homo sapiens	
+ENSG00000149294	neural cell adhesion molecule 1(NCAM1)	Homo sapiens	
+ENSG00000130287	neurocan(NCAN)	Homo sapiens	
+ENSG00000133110	periostin(POSTN)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	
+ENSG00000105426	protein tyrosine phosphatase, receptor type S(PTPRS)	Homo sapiens	
+ENSG00000240184	protocadherin gamma subfamily C, 3(PCDHGC3)	Homo sapiens	
+ENSG00000143878	ras homolog family member B(RHOB)	Homo sapiens	
+ENSG00000168028	ribosomal protein SA(RPSA)	Homo sapiens	
+ENSG00000118785	secreted phosphoprotein 1(SPP1)	Homo sapiens	
+ENSG00000188404	selectin L(SELL)	Homo sapiens	
+ENSG00000187764	semaphorin 4D(SEMA4D)	Homo sapiens	
+ENSG00000112902	semaphorin 5A(SEMA5A)	Homo sapiens	
+ENSG00000010327	stabilin 1(STAB1)	Homo sapiens	
+ENSG00000101955	sushi repeat containing protein, X-linked(SRPX)	Homo sapiens	
+ENSG00000041982	tenascin C(TNC)	Homo sapiens	
+ENSG00000116147	tenascin R(TNR)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000113296	thrombospondin 4(THBS4)	Homo sapiens	
+ENSG00000120708	transforming growth factor beta induced(TGFBI)	Homo sapiens	
+ENSG00000038427	versican(VCAN)	Homo sapiens	
+ENSG00000110799	von Willebrand factor(VWF)	Homo sapiens	
+ENSG00000159840	zyxin(ZYX)	Homo sapiens	

@@ -1,0 +1,8 @@
+ID	Gene Name	Species
+ENSG00000065978	Y-box binding protein 1(YBX1)	Homo sapiens	
+ENSG00000113578	fibroblast growth factor 1(FGF1)	Homo sapiens	
+ENSG00000167244	insulin like growth factor 2(IGF2)	Homo sapiens	
+ENSG00000105894	pleiotrophin(PTN)	Homo sapiens	
+ENSG00000068903	sirtuin 2(SIRT2)	Homo sapiens	
+ENSG00000113296	thrombospondin 4(THBS4)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

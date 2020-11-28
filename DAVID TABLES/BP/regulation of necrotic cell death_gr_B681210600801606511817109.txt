@@ -1,0 +1,5 @@
+ID	Gene Name	Species
+ENSG00000143947	ribosomal protein S27a(RPS27A)	Homo sapiens	
+ENSG00000221983	ubiquitin A-52 residue ribosomal protein fusion product 1(UBA52)	Homo sapiens	
+ENSG00000170315	ubiquitin B(UBB)	Homo sapiens	
+ENSG00000150991	ubiquitin C(UBC)	Homo sapiens	

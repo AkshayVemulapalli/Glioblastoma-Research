@@ -1,0 +1,15 @@
+ID	Gene Name	Species
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000148082	SHC adaptor protein 3(SHC3)	Homo sapiens	
+ENSG00000070808	calcium/calmodulin dependent protein kinase II alpha(CAMK2A)	Homo sapiens	
+ENSG00000198668	calmodulin 1(CALM1)	Homo sapiens	
+ENSG00000143933	calmodulin 2(CALM2)	Homo sapiens	
+ENSG00000160014	calmodulin 3(CALM3)	Homo sapiens	
+ENSG00000110092	cyclin D1(CCND1)	Homo sapiens	
+ENSG00000135446	cyclin dependent kinase 4(CDK4)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000177885	growth factor receptor bound protein 2(GRB2)	Homo sapiens	
+ENSG00000145675	phosphoinositide-3-kinase regulatory subunit 1(PIK3R1)	Homo sapiens	
+ENSG00000134853	platelet derived growth factor receptor alpha(PDGFRA)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	

@@ -1,0 +1,11 @@
+ID	Gene Name	Species
+ENSG00000026508	CD44 molecule (Indian blood group)(CD44)	Homo sapiens	
+ENSG00000135404	CD63 molecule(CD63)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000118523	connective tissue growth factor(CTGF)	Homo sapiens	
+ENSG00000005884	integrin subunit alpha 3(ITGA3)	Homo sapiens	
+ENSG00000135424	integrin subunit alpha 7(ITGA7)	Homo sapiens	
+ENSG00000105855	integrin subunit beta 8(ITGB8)	Homo sapiens	
+ENSG00000116962	nidogen 1(NID1)	Homo sapiens	
+ENSG00000127990	sarcoglycan epsilon(SGCE)	Homo sapiens	
+ENSG00000159840	zyxin(ZYX)	Homo sapiens	

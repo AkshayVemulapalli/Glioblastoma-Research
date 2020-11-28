@@ -1,0 +1,36 @@
+ID	Gene Name	Species
+ENSG00000026508	CD44 molecule (Indian blood group)(CD44)	Homo sapiens	
+ENSG00000135404	CD63 molecule(CD63)	Homo sapiens	
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000105976	MET proto-oncogene, receptor tyrosine kinase(MET)	Homo sapiens	
+ENSG00000075624	actin beta(ACTB)	Homo sapiens	
+ENSG00000184009	actin gamma 1(ACTG1)	Homo sapiens	
+ENSG00000145362	ankyrin 2(ANK2)	Homo sapiens	
+ENSG00000070808	calcium/calmodulin dependent protein kinase II alpha(CAMK2A)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000135047	cathepsin L(CTSL)	Homo sapiens	
+ENSG00000110092	cyclin D1(CCND1)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000011465	decorin(DCN)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000092820	ezrin(EZR)	Homo sapiens	
+ENSG00000166225	fibroblast growth factor receptor substrate 2(FRS2)	Homo sapiens	
+ENSG00000115414	fibronectin 1(FN1)	Homo sapiens	
+ENSG00000196924	filamin A(FLNA)	Homo sapiens	
+ENSG00000128591	filamin C(FLNC)	Homo sapiens	
+ENSG00000063660	glypican 1(GPC1)	Homo sapiens	
+ENSG00000177885	growth factor receptor bound protein 2(GRB2)	Homo sapiens	
+ENSG00000100644	hypoxia inducible factor 1 alpha subunit(HIF1A)	Homo sapiens	
+ENSG00000167244	insulin like growth factor 2(IGF2)	Homo sapiens	
+ENSG00000139329	lumican(LUM)	Homo sapiens	
+ENSG00000087245	matrix metallopeptidase 2(MMP2)	Homo sapiens	
+ENSG00000147065	moesin(MSN)	Homo sapiens	
+ENSG00000145675	phosphoinositide-3-kinase regulatory subunit 1(PIK3R1)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	
+ENSG00000213639	protein phosphatase 1 catalytic subunit beta(PPP1CB)	Homo sapiens	
+ENSG00000067560	ras homolog family member A(RHOA)	Homo sapiens	
+ENSG00000137154	ribosomal protein S6(RPS6)	Homo sapiens	
+ENSG00000128602	smoothened, frizzled class receptor(SMO)	Homo sapiens	
+ENSG00000124145	syndecan 4(SDC4)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

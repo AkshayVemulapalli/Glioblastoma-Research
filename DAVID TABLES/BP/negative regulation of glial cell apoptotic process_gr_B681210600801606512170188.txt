@@ -1,0 +1,4 @@
+ID	Gene Name	Species
+ENSG00000108691	C-C motif chemokine ligand 2(CCL2)	Homo sapiens	
+ENSG00000198719	delta like canonical Notch ligand 1(DLL1)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	

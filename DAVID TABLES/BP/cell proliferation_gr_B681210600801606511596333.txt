@@ -1,0 +1,34 @@
+ID	Gene Name	Species
+ENSG00000115266	APC2, WNT signaling pathway regulator(APC2)	Homo sapiens	
+ENSG00000019582	CD74 molecule(CD74)	Homo sapiens	
+ENSG00000110651	CD81 molecule(CD81)	Homo sapiens	
+ENSG00000114353	G protein subunit alpha i2(GNAI2)	Homo sapiens	
+ENSG00000078369	G protein subunit beta 1(GNB1)	Homo sapiens	
+ENSG00000123384	LDL receptor related protein 1(LRP1)	Homo sapiens	
+ENSG00000198625	MDM4, p53 regulator(MDM4)	Homo sapiens	
+ENSG00000105976	MET proto-oncogene, receptor tyrosine kinase(MET)	Homo sapiens	
+ENSG00000160307	S100 calcium binding protein B(S100B)	Homo sapiens	
+ENSG00000185650	ZFP36 ring finger protein like 1(ZFP36L1)	Homo sapiens	
+ENSG00000152518	ZFP36 ring finger protein like 2(ZFP36L2)	Homo sapiens	
+ENSG00000060982	branched chain amino acid transaminase 1(BCAT1)	Homo sapiens	
+ENSG00000173546	chondroitin sulfate proteoglycan 4(CSPG4)	Homo sapiens	
+ENSG00000182578	colony stimulating factor 1 receptor(CSF1R)	Homo sapiens	
+ENSG00000142871	cysteine rich angiogenic inducer 61(CYR61)	Homo sapiens	
+ENSG00000175203	dynactin subunit 2(DCTN2)	Homo sapiens	
+ENSG00000049540	elastin(ELN)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000134531	epithelial membrane protein 1(EMP1)	Homo sapiens	
+ENSG00000075618	fascin actin-bundling protein 1(FSCN1)	Homo sapiens	
+ENSG00000113578	fibroblast growth factor 1(FGF1)	Homo sapiens	
+ENSG00000135821	glutamate-ammonia ligase(GLUL)	Homo sapiens	
+ENSG00000141753	insulin like growth factor binding protein 4(IGFBP4)	Homo sapiens	
+ENSG00000004487	lysine demethylase 1A(KDM1A)	Homo sapiens	
+ENSG00000087250	metallothionein 3(MT3)	Homo sapiens	
+ENSG00000162493	podoplanin(PDPN)	Homo sapiens	
+ENSG00000198242	ribosomal protein L23a(RPL23A)	Homo sapiens	
+ENSG00000177954	ribosomal protein S27(RPS27)	Homo sapiens	
+ENSG00000132386	serpin family F member 1(SERPINF1)	Homo sapiens	
+ENSG00000013810	transforming acidic coiled-coil containing protein 3(TACC3)	Homo sapiens	
+ENSG00000120708	transforming growth factor beta induced(TGFBI)	Homo sapiens	
+ENSG00000154277	ubiquitin C-terminal hydrolase L1(UCHL1)	Homo sapiens	
+ENSG00000148516	zinc finger E-box binding homeobox 1(ZEB1)	Homo sapiens	

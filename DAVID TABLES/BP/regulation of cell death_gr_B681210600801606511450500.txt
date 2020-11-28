@@ -1,0 +1,6 @@
+ID	Gene Name	Species
+ENSG00000177606	Jun proto-oncogene, AP-1 transcription factor subunit(JUN)	Homo sapiens	
+ENSG00000171223	JunB proto-oncogene, AP-1 transcription factor subunit(JUNB)	Homo sapiens	
+ENSG00000109846	crystallin alpha B(CRYAB)	Homo sapiens	
+ENSG00000204389	heat shock protein family A (Hsp70) member 1A(HSPA1A)	Homo sapiens	
+ENSG00000164924	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta(YWHAZ)	Homo sapiens	

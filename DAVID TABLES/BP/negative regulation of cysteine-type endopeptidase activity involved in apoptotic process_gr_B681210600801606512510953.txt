@@ -1,0 +1,13 @@
+ID	Gene Name	Species
+ENSG00000026508	CD44 molecule (Indian blood group)(CD44)	Homo sapiens	
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000240583	aquaporin 1 (Colton blood group)(AQP1)	Homo sapiens	
+ENSG00000109846	crystallin alpha B(CRYAB)	Homo sapiens	
+ENSG00000105220	glucose-6-phosphate isomerase(GPI)	Homo sapiens	
+ENSG00000233276	glutathione peroxidase 1(GPX1)	Homo sapiens	
+ENSG00000126709	interferon alpha inducible protein 6(IFI6)	Homo sapiens	
+ENSG00000087250	metallothionein 3(MT3)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000108953	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

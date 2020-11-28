@@ -1,0 +1,49 @@
+ID	Gene Name	Species
+ENSG00000110651	CD81 molecule(CD81)	Homo sapiens	
+ENSG00000099942	CRK like proto-oncogene, adaptor protein(CRKL)	Homo sapiens	
+ENSG00000114353	G protein subunit alpha i2(GNAI2)	Homo sapiens	
+ENSG00000175130	MARCKS like 1(MARCKSL1)	Homo sapiens	
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000160307	S100 calcium binding protein B(S100B)	Homo sapiens	
+ENSG00000124766	SRY-box 4(SOX4)	Homo sapiens	
+ENSG00000125398	SRY-box 9(SOX9)	Homo sapiens	
+ENSG00000102265	TIMP metallopeptidase inhibitor 1(TIMP1)	Homo sapiens	
+ENSG00000196072	biogenesis of lysosomal organelles complex 1 subunit 2(BLOC1S2)	Homo sapiens	
+ENSG00000179218	calreticulin(CALR)	Homo sapiens	
+ENSG00000103811	cathepsin H(CTSH)	Homo sapiens	
+ENSG00000182871	collagen type XVIII alpha 1 chain(COL18A1)	Homo sapiens	
+ENSG00000182578	colony stimulating factor 1 receptor(CSF1R)	Homo sapiens	
+ENSG00000118523	connective tissue growth factor(CTGF)	Homo sapiens	
+ENSG00000118971	cyclin D2(CCND2)	Homo sapiens	
+ENSG00000135446	cyclin dependent kinase 4(CDK4)	Homo sapiens	
+ENSG00000101439	cystatin C(CST3)	Homo sapiens	
+ENSG00000198719	delta like canonical Notch ligand 1(DLL1)	Homo sapiens	
+ENSG00000136160	endothelin receptor type B(EDNRB)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000114867	eukaryotic translation initiation factor 4 gamma 1(EIF4G1)	Homo sapiens	
+ENSG00000113578	fibroblast growth factor 1(FGF1)	Homo sapiens	
+ENSG00000068078	fibroblast growth factor receptor 3(FGFR3)	Homo sapiens	
+ENSG00000115414	fibronectin 1(FN1)	Homo sapiens	
+ENSG00000163349	homeodomain interacting protein kinase 1(HIPK1)	Homo sapiens	
+ENSG00000064393	homeodomain interacting protein kinase 2(HIPK2)	Homo sapiens	
+ENSG00000172201	inhibitor of DNA binding 4, HLH protein(ID4)	Homo sapiens	
+ENSG00000167244	insulin like growth factor 2(IGF2)	Homo sapiens	
+ENSG00000148053	neurotrophic receptor tyrosine kinase 2(NTRK2)	Homo sapiens	
+ENSG00000105835	nicotinamide phosphoribosyltransferase(NAMPT)	Homo sapiens	
+ENSG00000181163	nucleophosmin(NPM1)	Homo sapiens	
+ENSG00000187109	nucleosome assembly protein 1 like 1(NAP1L1)	Homo sapiens	
+ENSG00000134853	platelet derived growth factor receptor alpha(PDGFRA)	Homo sapiens	
+ENSG00000105894	pleiotrophin(PTN)	Homo sapiens	
+ENSG00000134419	ribosomal protein S15a(RPS15A)	Homo sapiens	
+ENSG00000198034	ribosomal protein S4, X-linked(RPS4X)	Homo sapiens	
+ENSG00000170889	ribosomal protein S9(RPS9)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000182199	serine hydroxymethyltransferase 2(SHMT2)	Homo sapiens	
+ENSG00000005022	solute carrier family 25 member 5(SLC25A5)	Homo sapiens	
+ENSG00000213694	sphingosine-1-phosphate receptor 3(S1PR3)	Homo sapiens	
+ENSG00000041982	tenascin C(TNC)	Homo sapiens	
+ENSG00000136205	tensin 3(TNS3)	Homo sapiens	
+ENSG00000135452	tetraspanin 31(TSPAN31)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000136270	transforming growth factor beta regulator 4(TBRG4)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

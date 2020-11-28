@@ -1,0 +1,57 @@
+ID	Gene Name	Species
+ENSG00000143384	BCL2 family apoptosis regulator(MCL1)	Homo sapiens	
+ENSG00000026508	CD44 molecule (Indian blood group)(CD44)	Homo sapiens	
+ENSG00000085063	CD59 molecule(CD59)	Homo sapiens	
+ENSG00000019582	CD74 molecule(CD74)	Homo sapiens	
+ENSG00000135472	Fas apoptotic inhibitory molecule 2(FAIM2)	Homo sapiens	
+ENSG00000072163	LIM zinc finger domain containing 2(LIMS2)	Homo sapiens	
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000198625	MDM4, p53 regulator(MDM4)	Homo sapiens	
+ENSG00000100906	NFKB inhibitor alpha(NFKBIA)	Homo sapiens	
+ENSG00000005513	SRY-box 8(SOX8)	Homo sapiens	
+ENSG00000125398	SRY-box 9(SOX9)	Homo sapiens	
+ENSG00000102265	TIMP metallopeptidase inhibitor 1(TIMP1)	Homo sapiens	
+ENSG00000106052	Tax1 binding protein 1(TAX1BP1)	Homo sapiens	
+ENSG00000060138	Y-box binding protein 3(YBX3)	Homo sapiens	
+ENSG00000160710	adenosine deaminase, RNA specific(ADAR)	Homo sapiens	
+ENSG00000135046	annexin A1(ANXA1)	Homo sapiens	
+ENSG00000164111	annexin A5(ANXA5)	Homo sapiens	
+ENSG00000240583	aquaporin 1 (Colton blood group)(AQP1)	Homo sapiens	
+ENSG00000103811	cathepsin H(CTSH)	Homo sapiens	
+ENSG00000172757	cofilin 1(CFL1)	Homo sapiens	
+ENSG00000182578	colony stimulating factor 1 receptor(CSF1R)	Homo sapiens	
+ENSG00000109846	crystallin alpha B(CRYAB)	Homo sapiens	
+ENSG00000118971	cyclin D2(CCND2)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000142871	cysteine rich angiogenic inducer 61(CYR61)	Homo sapiens	
+ENSG00000120129	dual specificity phosphatase 1(DUSP1)	Homo sapiens	
+ENSG00000136160	endothelin receptor type B(EDNRB)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000196924	filamin A(FLNA)	Homo sapiens	
+ENSG00000084207	glutathione S-transferase pi 1(GSTP1)	Homo sapiens	
+ENSG00000044574	heat shock protein family A (Hsp70) member 5(HSPA5)	Homo sapiens	
+ENSG00000113013	heat shock protein family A (Hsp70) member 9(HSPA9)	Homo sapiens	
+ENSG00000106211	heat shock protein family B (small) member 1(HSPB1)	Homo sapiens	
+ENSG00000165119	heterogeneous nuclear ribonucleoprotein K(HNRNPK)	Homo sapiens	
+ENSG00000119917	interferon induced protein with tetratricopeptide repeats 3(IFIT3)	Homo sapiens	
+ENSG00000012223	lactotransferrin(LTF)	Homo sapiens	
+ENSG00000087250	metallothionein 3(MT3)	Homo sapiens	
+ENSG00000071054	mitogen-activated protein kinase kinase kinase kinase 4(MAP4K4)	Homo sapiens	
+ENSG00000134250	notch 2(NOTCH2)	Homo sapiens	
+ENSG00000181163	nucleophosmin(NPM1)	Homo sapiens	
+ENSG00000145675	phosphoinositide-3-kinase regulatory subunit 1(PIK3R1)	Homo sapiens	
+ENSG00000171867	prion protein(PRNP)	Homo sapiens	
+ENSG00000215021	prohibitin 2(PHB2)	Homo sapiens	
+ENSG00000143947	ribosomal protein S27a(RPS27A)	Homo sapiens	
+ENSG00000145425	ribosomal protein S3A(RPS3A)	Homo sapiens	
+ENSG00000137154	ribosomal protein S6(RPS6)	Homo sapiens	
+ENSG00000187764	semaphorin 4D(SEMA4D)	Homo sapiens	
+ENSG00000128602	smoothened, frizzled class receptor(SMO)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000139644	transmembrane BAX inhibitor motif containing 6(TMBIM6)	Homo sapiens	
+ENSG00000133112	tumor protein, translationally-controlled 1(TPT1)	Homo sapiens	
+ENSG00000164924	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta(YWHAZ)	Homo sapiens	
+ENSG00000221983	ubiquitin A-52 residue ribosomal protein fusion product 1(UBA52)	Homo sapiens	
+ENSG00000170315	ubiquitin B(UBB)	Homo sapiens	
+ENSG00000150991	ubiquitin C(UBC)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

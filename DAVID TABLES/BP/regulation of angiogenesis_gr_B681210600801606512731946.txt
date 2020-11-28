@@ -1,0 +1,6 @@
+ID	Gene Name	Species
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000136960	ectonucleotide pyrophosphatase/phosphodiesterase 2(ENPP2)	Homo sapiens	
+ENSG00000136235	glycoprotein nmb(GPNMB)	Homo sapiens	
+ENSG00000100292	heme oxygenase 1(HMOX1)	Homo sapiens	
+ENSG00000140105	tryptophanyl-tRNA synthetase(WARS)	Homo sapiens	

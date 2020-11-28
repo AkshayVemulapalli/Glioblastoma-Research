@@ -1,0 +1,5 @@
+ID	Gene Name	Species
+ENSG00000187957	delta/notch like EGF repeat containing(DNER)	Homo sapiens	
+ENSG00000172020	growth associated protein 43(GAP43)	Homo sapiens	
+ENSG00000103260	meteorin, glial cell differentiation regulator(METRN)	Homo sapiens	
+ENSG00000147862	nuclear factor I B(NFIB)	Homo sapiens	

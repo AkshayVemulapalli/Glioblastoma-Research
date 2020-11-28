@@ -1,0 +1,8 @@
+ID	Gene Name	Species
+ENSG00000107742	SPARC/osteonectin, cwcv and kazal like domains proteoglycan 2(SPOCK2)	Homo sapiens	
+ENSG00000091986	coiled-coil domain containing 80(CCDC80)	Homo sapiens	
+ENSG00000142871	cysteine rich angiogenic inducer 61(CYR61)	Homo sapiens	
+ENSG00000138080	elastin microfibril interfacer 1(EMILIN1)	Homo sapiens	
+ENSG00000005884	integrin subunit alpha 3(ITGA3)	Homo sapiens	
+ENSG00000116962	nidogen 1(NID1)	Homo sapiens	
+ENSG00000105894	pleiotrophin(PTN)	Homo sapiens	

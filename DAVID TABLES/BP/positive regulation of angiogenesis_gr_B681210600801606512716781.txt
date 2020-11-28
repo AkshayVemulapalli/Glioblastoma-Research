@@ -1,0 +1,20 @@
+ID	Gene Name	Species
+ENSG00000240583	aquaporin 1 (Colton blood group)(AQP1)	Homo sapiens	
+ENSG00000103811	cathepsin H(CTSH)	Homo sapiens	
+ENSG00000133048	chitinase 3 like 1(CHI3L1)	Homo sapiens	
+ENSG00000117525	coagulation factor III, tissue factor(F3)	Homo sapiens	
+ENSG00000125730	complement C3(C3)	Homo sapiens	
+ENSG00000138061	cytochrome P450 family 1 subfamily B member 1(CYP1B1)	Homo sapiens	
+ENSG00000113578	fibroblast growth factor 1(FGF1)	Homo sapiens	
+ENSG00000106211	heat shock protein family B (small) member 1(HSPB1)	Homo sapiens	
+ENSG00000100292	heme oxygenase 1(HMOX1)	Homo sapiens	
+ENSG00000163349	homeodomain interacting protein kinase 1(HIPK1)	Homo sapiens	
+ENSG00000064393	homeodomain interacting protein kinase 2(HIPK2)	Homo sapiens	
+ENSG00000100644	hypoxia inducible factor 1 alpha subunit(HIF1A)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	
+ENSG00000143878	ras homolog family member B(RHOB)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000112902	semaphorin 5A(SEMA5A)	Homo sapiens	
+ENSG00000106366	serpin family E member 1(SERPINE1)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

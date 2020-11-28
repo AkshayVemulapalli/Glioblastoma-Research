@@ -1,0 +1,6 @@
+ID	Gene Name	Species
+ENSG00000233276	glutathione peroxidase 1(GPX1)	Homo sapiens	
+ENSG00000100292	heme oxygenase 1(HMOX1)	Homo sapiens	
+ENSG00000162734	phosphoprotein enriched in astrocytes 15(PEA15)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000106366	serpin family E member 1(SERPINE1)	Homo sapiens	

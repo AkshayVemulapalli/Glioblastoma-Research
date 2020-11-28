@@ -1,0 +1,21 @@
+ID	Gene Name	Species
+ENSG00000143384	BCL2 family apoptosis regulator(MCL1)	Homo sapiens	
+ENSG00000010810	FYN proto-oncogene, Src family tyrosine kinase(FYN)	Homo sapiens	
+ENSG00000179222	MAGE family member D1(MAGED1)	Homo sapiens	
+ENSG00000104419	N-myc downstream regulated 1(NDRG1)	Homo sapiens	
+ENSG00000125398	SRY-box 9(SOX9)	Homo sapiens	
+ENSG00000072110	actinin alpha 1(ACTN1)	Homo sapiens	
+ENSG00000130402	actinin alpha 4(ACTN4)	Homo sapiens	
+ENSG00000179218	calreticulin(CALR)	Homo sapiens	
+ENSG00000164733	cathepsin B(CTSB)	Homo sapiens	
+ENSG00000120129	dual specificity phosphatase 1(DUSP1)	Homo sapiens	
+ENSG00000120738	early growth response 1(EGR1)	Homo sapiens	
+ENSG00000166225	fibroblast growth factor receptor substrate 2(FRS2)	Homo sapiens	
+ENSG00000100097	galectin 1(LGALS1)	Homo sapiens	
+ENSG00000146674	insulin like growth factor binding protein 3(IGFBP3)	Homo sapiens	
+ENSG00000162734	phosphoprotein enriched in astrocytes 15(PEA15)	Homo sapiens	
+ENSG00000115310	reticulon 4(RTN4)	Homo sapiens	
+ENSG00000149273	ribosomal protein S3(RPS3)	Homo sapiens	
+ENSG00000108387	septin 4(SEPT4)	Homo sapiens	
+ENSG00000115415	signal transducer and activator of transcription 1(STAT1)	Homo sapiens	
+ENSG00000133112	tumor protein, translationally-controlled 1(TPT1)	Homo sapiens	

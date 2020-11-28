@@ -1,0 +1,7 @@
+ID	Gene Name	Species
+ENSG00000166913	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta(YWHAB)	Homo sapiens	
+ENSG00000108953	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens	
+ENSG00000128245	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta(YWHAH)	Homo sapiens	
+ENSG00000170027	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma(YWHAG)	Homo sapiens	
+ENSG00000134308	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta(YWHAQ)	Homo sapiens	
+ENSG00000164924	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta(YWHAZ)	Homo sapiens	

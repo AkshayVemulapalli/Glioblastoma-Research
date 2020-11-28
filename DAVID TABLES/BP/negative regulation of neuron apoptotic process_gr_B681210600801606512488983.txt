@@ -1,0 +1,22 @@
+ID	Gene Name	Species
+ENSG00000135439	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2(AGAP2)	Homo sapiens	
+ENSG00000159388	BTG anti-proliferation factor 2(BTG2)	Homo sapiens	
+ENSG00000108691	C-C motif chemokine ligand 2(CCL2)	Homo sapiens	
+ENSG00000010810	FYN proto-oncogene, Src family tyrosine kinase(FYN)	Homo sapiens	
+ENSG00000135472	Fas apoptotic inhibitory molecule 2(FAIM2)	Homo sapiens	
+ENSG00000177606	Jun proto-oncogene, AP-1 transcription factor subunit(JUN)	Homo sapiens	
+ENSG00000123384	LDL receptor related protein 1(LRP1)	Homo sapiens	
+ENSG00000119335	SET nuclear proto-oncogene(SET)	Homo sapiens	
+ENSG00000130203	apolipoprotein E(APOE)	Homo sapiens	
+ENSG00000102879	coronin 1A(CORO1A)	Homo sapiens	
+ENSG00000105220	glucose-6-phosphate isomerase(GPI)	Homo sapiens	
+ENSG00000176884	glutamate ionotropic receptor NMDA type subunit 1(GRIN1)	Homo sapiens	
+ENSG00000096384	heat shock protein 90 alpha family class B member 1(HSP90AB1)	Homo sapiens	
+ENSG00000100292	heme oxygenase 1(HMOX1)	Homo sapiens	
+ENSG00000064393	homeodomain interacting protein kinase 2(HIPK2)	Homo sapiens	
+ENSG00000100600	legumain(LGMN)	Homo sapiens	
+ENSG00000087250	metallothionein 3(MT3)	Homo sapiens	
+ENSG00000132688	nestin(NES)	Homo sapiens	
+ENSG00000277586	neurofilament, light polypeptide(NEFL)	Homo sapiens	
+ENSG00000148053	neurotrophic receptor tyrosine kinase 2(NTRK2)	Homo sapiens	
+ENSG00000136854	syntaxin binding protein 1(STXBP1)	Homo sapiens	

@@ -1,0 +1,15 @@
+ID	Gene Name	Species
+ENSG00000272398	CD24 molecule(CD24)	Homo sapiens	
+ENSG00000026508	CD44 molecule (Indian blood group)(CD44)	Homo sapiens	
+ENSG00000072163	LIM zinc finger domain containing 2(LIMS2)	Homo sapiens	
+ENSG00000125398	SRY-box 9(SOX9)	Homo sapiens	
+ENSG00000154096	Thy-1 cell surface antigen(THY1)	Homo sapiens	
+ENSG00000164199	adhesion G protein-coupled receptor V1(ADGRV1)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000169862	catenin delta 2(CTNND2)	Homo sapiens	
+ENSG00000055163	cytoplasmic FMR1 interacting protein 2(CYFIP2)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000091129	neuronal cell adhesion molecule(NRCAM)	Homo sapiens	
+ENSG00000162493	podoplanin(PDPN)	Homo sapiens	
+ENSG00000168028	ribosomal protein SA(RPSA)	Homo sapiens	
+ENSG00000167614	tweety family member 1(TTYH1)	Homo sapiens	

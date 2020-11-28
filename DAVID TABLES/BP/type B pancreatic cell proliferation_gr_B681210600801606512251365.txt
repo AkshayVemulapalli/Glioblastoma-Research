@@ -1,0 +1,4 @@
+ID	Gene Name	Species
+ENSG00000146674	insulin like growth factor binding protein 3(IGFBP3)	Homo sapiens	
+ENSG00000141753	insulin like growth factor binding protein 4(IGFBP4)	Homo sapiens	
+ENSG00000115461	insulin like growth factor binding protein 5(IGFBP5)	Homo sapiens	

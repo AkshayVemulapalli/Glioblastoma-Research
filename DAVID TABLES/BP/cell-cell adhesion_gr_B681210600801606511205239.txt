@@ -1,0 +1,55 @@
+ID	Gene Name	Species
+ENSG00000124942	AHNAK nucleoprotein(AHNAK)	Homo sapiens	
+ENSG00000099942	CRK like proto-oncogene, adaptor protein(CRKL)	Homo sapiens	
+ENSG00000132002	DnaJ heat shock protein family (Hsp40) member B1(DNAJB1)	Homo sapiens	
+ENSG00000104419	N-myc downstream regulated 1(NDRG1)	Homo sapiens	
+ENSG00000149925	aldolase, fructose-bisphosphate A(ALDOA)	Homo sapiens	
+ENSG00000182718	annexin A2(ANXA2)	Homo sapiens	
+ENSG00000172270	basigin (Ok blood group)(BSG)	Homo sapiens	
+ENSG00000122786	caldesmon 1(CALD1)	Homo sapiens	
+ENSG00000117519	calponin 3(CNN3)	Homo sapiens	
+ENSG00000074800	enolase 1(ENO1)	Homo sapiens	
+ENSG00000072134	epsin 2(EPN2)	Homo sapiens	
+ENSG00000167658	eukaryotic translation elongation factor 2(EEF2)	Homo sapiens	
+ENSG00000114867	eukaryotic translation initiation factor 4 gamma 1(EIF4G1)	Homo sapiens	
+ENSG00000110321	eukaryotic translation initiation factor 4 gamma 2(EIF4G2)	Homo sapiens	
+ENSG00000106682	eukaryotic translation initiation factor 4H(EIF4H)	Homo sapiens	
+ENSG00000075618	fascin actin-bundling protein 1(FSCN1)	Homo sapiens	
+ENSG00000169710	fatty acid synthase(FASN)	Homo sapiens	
+ENSG00000096384	heat shock protein 90 alpha family class B member 1(HSP90AB1)	Homo sapiens	
+ENSG00000204389	heat shock protein family A (Hsp70) member 1A(HSPA1A)	Homo sapiens	
+ENSG00000044574	heat shock protein family A (Hsp70) member 5(HSPA5)	Homo sapiens	
+ENSG00000109971	heat shock protein family A (Hsp70) member 8(HSPA8)	Homo sapiens	
+ENSG00000165119	heterogeneous nuclear ribonucleoprotein K(HNRNPK)	Homo sapiens	
+ENSG00000126777	kinectin 1(KTN1)	Homo sapiens	
+ENSG00000134333	lactate dehydrogenase A(LDHA)	Homo sapiens	
+ENSG00000127603	microtubule-actin crosslinking factor 1(MACF1)	Homo sapiens	
+ENSG00000117592	peroxiredoxin 6(PRDX6)	Homo sapiens	
+ENSG00000067057	phosphofructokinase, platelet(PFKP)	Homo sapiens	
+ENSG00000178209	plectin(PLEC)	Homo sapiens	
+ENSG00000108518	profilin 1(PFN1)	Homo sapiens	
+ENSG00000067225	pyruvate kinase, muscle(PKM)	Homo sapiens	
+ENSG00000204628	receptor for activated C kinase 1(RACK1)	Homo sapiens	
+ENSG00000115310	reticulon 4(RTN4)	Homo sapiens	
+ENSG00000188846	ribosomal protein L14(RPL14)	Homo sapiens	
+ENSG00000174748	ribosomal protein L15(RPL15)	Homo sapiens	
+ENSG00000198242	ribosomal protein L23a(RPL23A)	Homo sapiens	
+ENSG00000114391	ribosomal protein L24(RPL24)	Homo sapiens	
+ENSG00000162244	ribosomal protein L29(RPL29)	Homo sapiens	
+ENSG00000109475	ribosomal protein L34(RPL34)	Homo sapiens	
+ENSG00000089009	ribosomal protein L6(RPL6)	Homo sapiens	
+ENSG00000148303	ribosomal protein L7a(RPL7A)	Homo sapiens	
+ENSG00000140988	ribosomal protein S2(RPS2)	Homo sapiens	
+ENSG00000197728	ribosomal protein S26(RPS26)	Homo sapiens	
+ENSG00000168385	septin 2(SEPT2)	Homo sapiens	
+ENSG00000122545	septin 7(SEPT7)	Homo sapiens	
+ENSG00000184640	septin 9(SEPT9)	Homo sapiens	
+ENSG00000115415	signal transducer and activator of transcription 1(STAT1)	Homo sapiens	
+ENSG00000028528	sorting nexin 1(SNX1)	Homo sapiens	
+ENSG00000197694	spectrin alpha, non-erythrocytic 1(SPTAN1)	Homo sapiens	
+ENSG00000115306	spectrin beta, non-erythrocytic 1(SPTBN1)	Homo sapiens	
+ENSG00000119139	tight junction protein 2(TJP2)	Homo sapiens	
+ENSG00000158710	transgelin 2(TAGLN2)	Homo sapiens	
+ENSG00000166913	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta(YWHAB)	Homo sapiens	
+ENSG00000108953	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens	
+ENSG00000164924	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta(YWHAZ)	Homo sapiens	

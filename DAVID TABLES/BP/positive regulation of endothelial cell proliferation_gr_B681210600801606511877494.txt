@@ -1,0 +1,10 @@
+ID	Gene Name	Species
+ENSG00000108691	C-C motif chemokine ligand 2(CCL2)	Homo sapiens	
+ENSG00000177606	Jun proto-oncogene, AP-1 transcription factor subunit(JUN)	Homo sapiens	
+ENSG00000117525	coagulation factor III, tissue factor(F3)	Homo sapiens	
+ENSG00000100644	hypoxia inducible factor 1 alpha subunit(HIF1A)	Homo sapiens	
+ENSG00000154229	protein kinase C alpha(PRKCA)	Homo sapiens	
+ENSG00000171951	secretogranin II(SCG2)	Homo sapiens	
+ENSG00000112902	semaphorin 5A(SEMA5A)	Homo sapiens	
+ENSG00000113296	thrombospondin 4(THBS4)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

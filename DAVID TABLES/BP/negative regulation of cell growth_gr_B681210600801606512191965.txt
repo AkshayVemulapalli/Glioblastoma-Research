@@ -1,0 +1,13 @@
+ID	Gene Name	Species
+ENSG00000184205	TSPY like 2(TSPYL2)	Homo sapiens	
+ENSG00000135744	angiotensinogen(AGT)	Homo sapiens	
+ENSG00000109846	crystallin alpha B(CRYAB)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000074800	enolase 1(ENO1)	Homo sapiens	
+ENSG00000022267	four and a half LIM domains 1(FHL1)	Homo sapiens	
+ENSG00000152661	gap junction protein alpha 1(GJA1)	Homo sapiens	
+ENSG00000087250	metallothionein 3(MT3)	Homo sapiens	
+ENSG00000204628	receptor for activated C kinase 1(RACK1)	Homo sapiens	
+ENSG00000115310	reticulon 4(RTN4)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000135919	serpin family E member 2(SERPINE2)	Homo sapiens	

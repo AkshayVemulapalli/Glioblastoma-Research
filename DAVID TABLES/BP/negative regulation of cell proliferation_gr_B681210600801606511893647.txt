@@ -1,0 +1,32 @@
+ID	Gene Name	Species
+ENSG00000159388	BTG anti-proliferation factor 2(BTG2)	Homo sapiens	
+ENSG00000010278	CD9 molecule(CD9)	Homo sapiens	
+ENSG00000177606	Jun proto-oncogene, AP-1 transcription factor subunit(JUN)	Homo sapiens	
+ENSG00000198625	MDM4, p53 regulator(MDM4)	Homo sapiens	
+ENSG00000104419	N-myc downstream regulated 1(NDRG1)	Homo sapiens	
+ENSG00000124766	SRY-box 4(SOX4)	Homo sapiens	
+ENSG00000035862	TIMP metallopeptidase inhibitor 2(TIMP2)	Homo sapiens	
+ENSG00000181790	adhesion G protein-coupled receptor B1(ADGRB1)	Homo sapiens	
+ENSG00000205336	adhesion G protein-coupled receptor G1(ADGRG1)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000182871	collagen type XVIII alpha 1 chain(COL18A1)	Homo sapiens	
+ENSG00000182578	colony stimulating factor 1 receptor(CSF1R)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000138061	cytochrome P450 family 1 subfamily B member 1(CYP1B1)	Homo sapiens	
+ENSG00000198719	delta like canonical Notch ligand 1(DLL1)	Homo sapiens	
+ENSG00000164434	fatty acid binding protein 7(FABP7)	Homo sapiens	
+ENSG00000167996	ferritin heavy chain 1(FTH1)	Homo sapiens	
+ENSG00000136235	glycoprotein nmb(GPNMB)	Homo sapiens	
+ENSG00000146674	insulin like growth factor binding protein 3(IGFBP3)	Homo sapiens	
+ENSG00000163453	insulin like growth factor binding protein 7(IGFBP7)	Homo sapiens	
+ENSG00000119917	interferon induced protein with tetratricopeptide repeats 3(IFIT3)	Homo sapiens	
+ENSG00000214548	maternally expressed 3 (non-protein coding)(MEG3)	Homo sapiens	
+ENSG00000134250	notch 2(NOTCH2)	Homo sapiens	
+ENSG00000181163	nucleophosmin(NPM1)	Homo sapiens	
+ENSG00000102760	regulator of cell cycle(RGCC)	Homo sapiens	
+ENSG00000145423	secreted frizzled related protein 2(SFRP2)	Homo sapiens	
+ENSG00000106483	secreted frizzled related protein 4(SFRP4)	Homo sapiens	
+ENSG00000135919	serpin family E member 2(SERPINE2)	Homo sapiens	
+ENSG00000068903	sirtuin 2(SIRT2)	Homo sapiens	
+ENSG00000140105	tryptophanyl-tRNA synthetase(WARS)	Homo sapiens	
+ENSG00000148516	zinc finger E-box binding homeobox 1(ZEB1)	Homo sapiens	

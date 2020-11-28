@@ -1,0 +1,6 @@
+ID	Gene Name	Species
+ENSG00000125398	SRY-box 9(SOX9)	Homo sapiens	
+ENSG00000168036	catenin beta 1(CTNNB1)	Homo sapiens	
+ENSG00000115415	signal transducer and activator of transcription 1(STAT1)	Homo sapiens	
+ENSG00000128602	smoothened, frizzled class receptor(SMO)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

@@ -1,0 +1,17 @@
+ID	Gene Name	Species
+ENSG00000108691	C-C motif chemokine ligand 2(CCL2)	Homo sapiens	
+ENSG00000001631	KRIT1, ankyrin repeat containing(KRIT1)	Homo sapiens	
+ENSG00000181790	adhesion G protein-coupled receptor B1(ADGRB1)	Homo sapiens	
+ENSG00000135744	angiotensinogen(AGT)	Homo sapiens	
+ENSG00000134871	collagen type IV alpha 2 chain(COL4A2)	Homo sapiens	
+ENSG00000011465	decorin(DCN)	Homo sapiens	
+ENSG00000214548	maternally expressed 3 (non-protein coding)(MEG3)	Homo sapiens	
+ENSG00000105894	pleiotrophin(PTN)	Homo sapiens	
+ENSG00000102760	regulator of cell cycle(RGCC)	Homo sapiens	
+ENSG00000113140	secreted protein acidic and cysteine rich(SPARC)	Homo sapiens	
+ENSG00000132386	serpin family F member 1(SERPINF1)	Homo sapiens	
+ENSG00000115415	signal transducer and activator of transcription 1(STAT1)	Homo sapiens	
+ENSG00000010327	stabilin 1(STAB1)	Homo sapiens	
+ENSG00000137573	sulfatase 1(SULF1)	Homo sapiens	
+ENSG00000137801	thrombospondin 1(THBS1)	Homo sapiens	
+ENSG00000113296	thrombospondin 4(THBS4)	Homo sapiens	

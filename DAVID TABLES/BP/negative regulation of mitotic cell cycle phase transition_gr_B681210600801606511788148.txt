@@ -1,0 +1,4 @@
+ID	Gene Name	Species
+ENSG00000185650	ZFP36 ring finger protein like 1(ZFP36L1)	Homo sapiens	
+ENSG00000152518	ZFP36 ring finger protein like 2(ZFP36L2)	Homo sapiens	
+ENSG00000102760	regulator of cell cycle(RGCC)	Homo sapiens	

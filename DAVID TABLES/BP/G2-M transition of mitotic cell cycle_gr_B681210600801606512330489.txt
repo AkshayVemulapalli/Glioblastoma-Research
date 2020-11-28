@@ -1,0 +1,24 @@
+ID	Gene Name	Species
+ENSG00000213923	LOC400927-CSNK1E readthrough(LOC400927-CSNK1E)	Homo sapiens	
+ENSG00000113558	S-phase kinase associated protein 1(SKP1)	Homo sapiens	
+ENSG00000198668	calmodulin 1(CALM1)	Homo sapiens	
+ENSG00000143933	calmodulin 2(CALM2)	Homo sapiens	
+ENSG00000160014	calmodulin 3(CALM3)	Homo sapiens	
+ENSG00000124762	cyclin dependent kinase inhibitor 1A(CDKN1A)	Homo sapiens	
+ENSG00000175203	dynactin subunit 2(DCTN2)	Homo sapiens	
+ENSG00000197102	dynein cytoplasmic 1 heavy chain 1(DYNC1H1)	Homo sapiens	
+ENSG00000080824	heat shock protein 90 alpha family class A member 1(HSP90AA1)	Homo sapiens	
+ENSG00000132688	nestin(NES)	Homo sapiens	
+ENSG00000139289	pleckstrin homology like domain family A member 1(PHLDA1)	Homo sapiens	
+ENSG00000213639	protein phosphatase 1 catalytic subunit beta(PPP1CB)	Homo sapiens	
+ENSG00000143947	ribosomal protein S27a(RPS27A)	Homo sapiens	
+ENSG00000167552	tubulin alpha 1a(TUBA1A)	Homo sapiens	
+ENSG00000104833	tubulin beta 4A class IVa(TUBB4A)	Homo sapiens	
+ENSG00000188229	tubulin beta 4B class IVb(TUBB4B)	Homo sapiens	
+ENSG00000196230	tubulin beta class I(TUBB)	Homo sapiens	
+ENSG00000111907	tumor protein D52-like 1(TPD52L1)	Homo sapiens	
+ENSG00000108953	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon(YWHAE)	Homo sapiens	
+ENSG00000170027	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma(YWHAG)	Homo sapiens	
+ENSG00000221983	ubiquitin A-52 residue ribosomal protein fusion product 1(UBA52)	Homo sapiens	
+ENSG00000170315	ubiquitin B(UBB)	Homo sapiens	
+ENSG00000150991	ubiquitin C(UBC)	Homo sapiens	

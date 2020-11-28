@@ -1,0 +1,10 @@
+ID	Gene Name	Species
+ENSG00000166033	HtrA serine peptidase 1(HTRA1)	Homo sapiens	
+ENSG00000125398	SRY-box 9(SOX9)	Homo sapiens	
+ENSG00000146648	epidermal growth factor receptor(EGFR)	Homo sapiens	
+ENSG00000113578	fibroblast growth factor 1(FGF1)	Homo sapiens	
+ENSG00000135821	glutamate-ammonia ligase(GLUL)	Homo sapiens	
+ENSG00000091136	laminin subunit beta 1(LAMB1)	Homo sapiens	
+ENSG00000135862	laminin subunit gamma 1(LAMC1)	Homo sapiens	
+ENSG00000128602	smoothened, frizzled class receptor(SMO)	Homo sapiens	
+ENSG00000112715	vascular endothelial growth factor A(VEGFA)	Homo sapiens	

@@ -1,0 +1,5 @@
+ID	Gene Name	Species
+ENSG00000135679	MDM2 proto-oncogene(MDM2)	Homo sapiens	
+ENSG00000198625	MDM4, p53 regulator(MDM4)	Homo sapiens	
+ENSG00000110092	cyclin D1(CCND1)	Homo sapiens	
+ENSG00000135446	cyclin dependent kinase 4(CDK4)	Homo sapiens	
